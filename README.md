@@ -34,7 +34,7 @@ $ npm i -g @nestjs/cli
 
 ![Alt text](image.png)
 
-### Controller
+### Controllers
 ![code-controllers](https://github.com/daniloopinheiro/ApiRestNodeNest/assets/64677271/abdf0322-d170-4176-8dc9-678ec8ceb622)
 
 
