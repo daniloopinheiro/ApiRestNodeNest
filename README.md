@@ -22,6 +22,31 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+## Construção do Projeto
+
+´´´bash
+$ npm i -g @nestjs/cli
+´´´
+
+> após a criação padrão do projeto, foi movido todo o conteudo interno, para o repositório vazio.
+
+## Modificações Aquiteturais
+
+![Alt text](image.png)
+
+### Controller
+![code-controllers](https://github.com/daniloopinheiro/ApiRestNodeNest/assets/64677271/abdf0322-d170-4176-8dc9-678ec8ceb622)
+
+
+### Modules
+![code-modules](https://github.com/daniloopinheiro/ApiRestNodeNest/assets/64677271/1ac36450-4e99-41bb-98fe-7926b851334f)
+
+### Repositories
+![code-repository](https://github.com/daniloopinheiro/ApiRestNodeNest/assets/64677271/ee41e44d-134a-4d0b-a398-fb01f70d30cd)
+
+### Services
+![code-services](https://github.com/daniloopinheiro/ApiRestNodeNest/assets/64677271/ae24bb82-4b5e-4043-8741-1e2d55896847)
+
 ## Descrição
 
 [Nest](https://github.com/nestjs/nest) repositório inicial TypeScript da estrutura.
