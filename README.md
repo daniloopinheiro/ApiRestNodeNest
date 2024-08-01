@@ -24,19 +24,24 @@
 
 ## Construção do Projeto
 
-´´´bash
+```bash
 $ npm i -g @nestjs/cli
-´´´
+```
 
 > após a criação padrão do projeto, foi movido todo o conteudo interno, para o repositório vazio.
 
 ## Modificações Aquiteturais
 
-![Alt text](image.png)
+![image](https://github.com/user-attachments/assets/69d64584-13d2-4d71-920d-6e4a19120e29)
 
 ### Controllers
 ![code-controllers](https://github.com/daniloopinheiro/ApiRestNodeNest/assets/64677271/abdf0322-d170-4176-8dc9-678ec8ceb622)
 
+### DTO
+![image](https://github.com/user-attachments/assets/7c801b92-ee6c-418b-b48e-2f0fbc948360)
+
+### Entities
+![image](https://github.com/user-attachments/assets/fb25183d-4f94-432d-a18d-5746c9326f48)
 
 ### Modules
 ![code-modules](https://github.com/daniloopinheiro/ApiRestNodeNest/assets/64677271/1ac36450-4e99-41bb-98fe-7926b851334f)
@@ -46,6 +51,9 @@ $ npm i -g @nestjs/cli
 
 ### Services
 ![code-services](https://github.com/daniloopinheiro/ApiRestNodeNest/assets/64677271/ae24bb82-4b5e-4043-8741-1e2d55896847)
+
+### Validators
+![image](https://github.com/user-attachments/assets/b08e7a24-71f5-4888-83c3-bc2a12447436)
 
 ## Descrição
 
